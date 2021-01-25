@@ -1,0 +1,13 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    border: 10px;
+    border-radius: 20px;
+    width: 310px;
+    font-family: fantasy;
+}
